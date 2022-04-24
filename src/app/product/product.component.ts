@@ -2,7 +2,7 @@ import { Component, OnInit } from '@angular/core';
 
 @Component({
   selector: 'product',
-  templateUrl: './product.component.html',
+  template: '<p>2product works!</p>',
   styleUrls: ['./product.component.css']
 })
 export class ProductComponent implements OnInit {
